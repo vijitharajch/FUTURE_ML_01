@@ -119,8 +119,6 @@ This project includes multiple professional business analytics visualizations:
 
 ### Historical vs Forecast Sales Trend
 
-![Sales Forecast](forecast_output.png)
-
 ---
 
 ## 📊 Model Evaluation
